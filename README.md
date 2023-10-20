@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalCode Pranjal Srivastav
-- 👀 I’m interested in Java and Fullstack developer role
-- 🌱 I’m currently learning Java frameworks
+- 👀 I’m interested in Fullstack developer, Data Analyst role
+- 🌱 I'm currently learning Python and PowerBI to make a transition in Data Science.
 - 📫 How to reach me- contact me on "pranjal.srivastav457@gmail.com"
 
 <!---
