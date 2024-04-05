@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalCode Pranjal Srivastav
 - 👀 I’m interested in Data Analyst role
-- 🌱 I'm currently learning Python and PowerBI to make a transition in Data Science.
+- 🌱 I am actively seeking opportunities as a Data Analyst proficient in Google Sheets, Excel, Power BI, PowerPoint, Python, SQL (including MySQL), PivotTable, Jupyter, and expertise in data cleaning and preparation.
 - 📫 How to reach me- contact me on "pranjal.srivastav457@gmail.com"
 
 <!---
